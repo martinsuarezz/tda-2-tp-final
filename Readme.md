@@ -7,3 +7,6 @@
 
 ### Dataset
 El dataset puede descargarse desde el siguiente link: [https://snap.stanford.edu/data/higgs-twitter.html](https://snap.stanford.edu/data/higgs-twitter.html)
+
+### Setup
+Descargar el dataset y colocarlo en una carpeta llamada /data junto con la notebook de Jupyter.
